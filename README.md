@@ -2,6 +2,8 @@
 
 **Note**: compiled by `@exaithrg`
 
+**Verilator Project Templates**: [Verilator Templates](https://github.com/exaithrg/verilator_templates)
+
 Verilator 4.210 User’s Guide Verilator 4.210 Manual
 
 **Based on Verilator Source Code**: https://github.com/verilator/verilator
