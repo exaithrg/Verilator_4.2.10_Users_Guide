@@ -1,5 +1,7 @@
 # Verilator_4.210_Users_Guide
 
+**IMPORTANT NOTICE**: This repository is out of maintenance, please check [verilator_templates](https://github.com/exaithrg/verilator_templates) for the latest updates.
+
 **Note**: compiled by `@exaithrg`
 
 **Verilator Project Templates**: [Verilator Templates](https://github.com/exaithrg/verilator_templates)
